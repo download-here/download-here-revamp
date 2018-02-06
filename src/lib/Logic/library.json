@@ -1,0 +1,21 @@
+{
+		"title": "Logic",
+		"song1": {
+			"name": "1-800-273-8255",
+			"artist": "Logic",
+			"album": "Everybody",
+			"location": "lib/Logic/1-800-273-8255.mp3",
+		},
+		"song2": {
+			"name": "Flexicution",
+			"artist": "Logic",
+			"album": "Bobby Tarantino",
+			"location": "lib/Logic/Flexicution.mp3",
+		},
+		"song3": {
+			"name": "Gang Related",
+			"artist": "Logic",
+			"album": "Under Pressure",
+			"location": "lib/Logic/Gang Related.mp3",
+		},
+	}
